@@ -1,3 +1,5 @@
+Forked from Original dacr/exproxy so we could look at doing some updates. The original Author noted this code as being LGPL. 
+
 
 The source code for a pretty old personal project (2005).
 More information can be find there : http://reuse.pagesperso-orange.fr/exproxy/
